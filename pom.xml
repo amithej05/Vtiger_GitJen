@@ -64,6 +64,7 @@
   </dependencies>
    <profiles>
   <profile>
+   <id>smoke</id>
   <build>
   <pluginManagement>
 <plugins> 
